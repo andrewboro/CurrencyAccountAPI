@@ -1,0 +1,12 @@
+body {
+    background: white
+}
+
+section {
+    display: grid;
+    place-items: center;
+}
+
+.error {
+    color: red
+}
